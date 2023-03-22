@@ -234,3 +234,48 @@ Alethe Denis - https://twitter.com/AletheDenis
 Joe Gray - https://twitter.com/C_3PJoe
 
 IntelTechniques - https://inteltechniques.com/
+
+# 2023
+
+🧑‍💻💥[Threat Intelligence Home-Lab]💥👩‍💻
+.
+.
+🟢 BASICS [Pre-requisites]
+📌 The Pyramid of Pain by David Bianco for Threat Intelligence and Threat hunting https://lnkd.in/d-m4SyK8
+📌 Zero to Cyberhero Guide for Cybersecurity jobs https://lnkd.in/dDtanqyn
+
+
+🟢 Platform and OS Setup
+📌 Setup Virtual-box
+https://lnkd.in/d8Shs5VE
+📌 Setup Ubuntu Server ISO
+https://lnkd.in/d9P-Fj4y
+
+
+🟢 Build Custom Threat Intelligence
+📌 Introduction to TAXII
+https://lnkd.in/dpRsmsW9
+📌 Introduction to STIX
+https://lnkd.in/dkeWC6Z2
+📌 Download STIX
+https://lnkd.in/dStG5Nb4
+
+
+🟢 Threat Intelligence Sharing
+📌 Download MISP Tool
+https://lnkd.in/de6DY8G4
+📌 OpenCTI
+https://lnkd.in/d2PJ5pC8
+📌 Yeti
+https://lnkd.in/d7n4AJD9
+
+
+🟢 Best Open-source That Intelligence Feeds
+📌 Emergingthreats by Proofpoint
+https://lnkd.in/dt4fuApv
+📌 AlienVault OTX
+https://lnkd.in/dsvUhpTQ
+📌 CINS Score by Sentinel
+https://cinsscore.com/
+📌 Feodo Tracker
+https://lnkd.in/dTTjyCqx
